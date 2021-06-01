@@ -1,0 +1,11 @@
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\bin\Debug\SMI.@default.exe.config
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\bin\Debug\SMI.@default.exe
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\bin\Debug\SMI.@default.pdb
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.default.csprojAssemblyReference.cache
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.default.csproj.ResolveComReference.cache
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.default.Form1.resources
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.default.Properties.Resources.resources
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.default.csproj.GenerateResource.cache
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.default.csproj.CoreCompileInputs.cache
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.@default.exe
+D:\Users\stephensonsso\source\repos\SMI.default\SMI.default\obj\Debug\SMI.@default.pdb
